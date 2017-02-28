@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "defens_jpg,earth_jpg,egret_icon_png,description_json,1_mp3",
+			"keys": "defens_jpg,earth_jpg,egret_icon_png,description_json,1_mp3,bird_jpg",
 			"name": "preload"
 		}
 	],
@@ -30,6 +30,11 @@
 			"url": "assets/1.mp3",
 			"type": "sound",
 			"name": "1_mp3"
+		},
+		{
+			"url": "assets/bird.jpg",
+			"type": "image",
+			"name": "bird_jpg"
 		}
 	]
 }
