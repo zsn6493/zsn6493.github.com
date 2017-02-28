@@ -1,9 +1,10 @@
 {
 	"groups": [
 		{
-			"keys": "defens_jpg,earth_jpg,egret_icon_png,description_json",
+			"keys": "defens_jpg,earth_jpg,egret_icon_png,description_json,1_mp3",
 			"name": "preload"
-		}],
+		}
+	],
 	"resources": [
 		{
 			"url": "assets/defens.jpg",
@@ -24,5 +25,11 @@
 			"url": "config/description.json",
 			"type": "json",
 			"name": "description_json"
-		}]
+		},
+		{
+			"url": "assets/1.mp3",
+			"type": "sound",
+			"name": "1_mp3"
+		}
+	]
 }
