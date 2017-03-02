@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "defens_jpg,earth_jpg,egret_icon_png,description_json,1_mp3,bird_jpg",
+			"keys": "defens_jpg,earth_jpg,description_json,1_mp3,bird_png,button_png",
 			"name": "preload"
 		}
 	],
@@ -17,11 +17,6 @@
 			"name": "earth_jpg"
 		},
 		{
-			"url": "assets/egret_icon.png",
-			"type": "image",
-			"name": "egret_icon_png"
-		},
-		{
 			"url": "config/description.json",
 			"type": "json",
 			"name": "description_json"
@@ -32,9 +27,14 @@
 			"name": "1_mp3"
 		},
 		{
-			"url": "assets/bird.jpg",
+			"url": "assets/bird.png",
 			"type": "image",
-			"name": "bird_jpg"
+			"name": "bird_png"
+		},
+		{
+			"url": "assets/button.png",
+			"type": "image",
+			"name": "button_png"
 		}
 	]
 }
