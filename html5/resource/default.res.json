@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "defens_jpg,earth_jpg,description_json,1_mp3,bird_png,button_png",
+			"keys": "defens_jpg,earth_jpg,description_json,1_mp3,bird_png,button_png,newParticle_json,newParticle_png",
 			"name": "preload"
 		}
 	],
@@ -35,6 +35,16 @@
 			"url": "assets/button.png",
 			"type": "image",
 			"name": "button_png"
+		},
+		{
+			"url": "assets/newParticle.json",
+			"type": "json",
+			"name": "newParticle_json"
+		},
+		{
+			"url": "assets/newParticle.png",
+			"type": "image",
+			"name": "newParticle_png"
 		}
 	]
 }
